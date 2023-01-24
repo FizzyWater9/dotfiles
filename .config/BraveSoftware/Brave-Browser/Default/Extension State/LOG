@@ -1,0 +1,27 @@
+2023/01/20-14:58:00.792 3f059 Reusing MANIFEST /home/skylerfitzwater/.config/BraveSoftware/Brave-Browser/Default/Extension State/MANIFEST-000001
+2023/01/20-14:58:00.792 3f059 Recovering log #16
+2023/01/20-14:58:00.799 3f059 Reusing old log /home/skylerfitzwater/.config/BraveSoftware/Brave-Browser/Default/Extension State/000016.log 
+2023/01/20-16:09:12.409 50bc2 Level-0 table #21: started
+2023/01/20-16:09:12.437 50bc2 Level-0 table #21: 2463586 bytes OK
+2023/01/20-16:09:12.445 50bc2 Delete type=0 #16
+2023/01/21-00:07:23.882 b2387 Level-0 table #23: started
+2023/01/21-00:07:23.917 b2387 Level-0 table #23: 2474148 bytes OK
+2023/01/21-00:07:23.922 b2387 Delete type=0 #20
+2023/01/21-23:39:27.829 3d2256 Level-0 table #25: started
+2023/01/21-23:39:27.852 3d2256 Level-0 table #25: 2511460 bytes OK
+2023/01/21-23:39:27.856 3d2256 Delete type=0 #22
+2023/01/23-12:49:21.512 37a77 Level-0 table #27: started
+2023/01/23-12:49:21.558 37a77 Level-0 table #27: 2470280 bytes OK
+2023/01/23-12:49:21.564 37a77 Delete type=0 #24
+2023/01/23-12:49:21.565 37a77 Compacting 4@0 + 1@1 files
+2023/01/23-12:49:21.582 37a77 Generated table #28@0: 7 keys, 10229 bytes
+2023/01/23-12:49:21.582 37a77 Compacted 4@0 + 1@1 files => 10229 bytes
+2023/01/23-12:49:21.584 37a77 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/23-12:49:21.586 37a77 Delete type=2 #25
+2023/01/23-12:49:21.586 37a77 Delete type=2 #27
+2023/01/23-12:49:21.586 37a77 Delete type=2 #18
+2023/01/23-12:49:21.586 37a77 Delete type=2 #23
+2023/01/23-12:49:21.586 37a77 Delete type=2 #21
+2023/01/23-16:10:30.106 81620 Level-0 table #30: started
+2023/01/23-16:10:30.131 81620 Level-0 table #30: 2469998 bytes OK
+2023/01/23-16:10:30.139 81620 Delete type=0 #26

@@ -1,0 +1,12 @@
+2023/01/19-08:46:24.468 10b6 Reusing MANIFEST /home/skylerfitzwater/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/MANIFEST-000001
+2023/01/19-08:46:24.468 10b6 Recovering log #7
+2023/01/19-08:46:24.470 10b6 Reusing old log /home/skylerfitzwater/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/000007.log 
+2023/01/19-22:50:53.618 11be2 Level-0 table #12: started
+2023/01/19-22:50:53.646 11be2 Level-0 table #12: 2614074 bytes OK
+2023/01/19-22:50:53.654 11be2 Delete type=0 #7
+2023/01/19-22:51:31.604 1226b Compacting 1@1 + 1@2 files
+2023/01/19-22:51:31.616 1226b Generated table #13@1: 6 keys, 138252 bytes
+2023/01/19-22:51:31.616 1226b Compacted 1@1 + 1@2 files => 138252 bytes
+2023/01/19-22:51:31.623 1226b compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/01/19-22:51:31.623 1226b Delete type=2 #9
+2023/01/19-22:51:31.623 1226b Delete type=2 #12

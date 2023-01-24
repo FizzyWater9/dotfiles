@@ -1,0 +1,6 @@
+2023/01/20-14:29:20.702 354d3 Creating DB /home/skylerfitzwater/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_lol.fandom.com_0.indexeddb.leveldb since it was missing.
+2023/01/20-14:29:20.709 354d3 Reusing MANIFEST /home/skylerfitzwater/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_lol.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/20-14:29:25.690 354ca Level-0 table #5: started
+2023/01/20-14:29:25.696 354ca Level-0 table #5: 6388 bytes OK
+2023/01/20-14:29:25.703 354ca Delete type=0 #3
+2023/01/20-14:29:25.703 354ca Manual compaction at level-0 from (begin) .. (end); will stop at (end)

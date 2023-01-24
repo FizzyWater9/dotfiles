@@ -1,0 +1,60 @@
+{
+   "action": {
+   },
+   "background": {
+      "service_worker": "background.js",
+      "type": "module"
+   },
+   "commands": {
+      "highlight-text": {
+         "description": "Highlight Text",
+         "suggested_key": {
+            "default": "Alt+S",
+            "mac": "Alt+S"
+         }
+      },
+      "toggle-bookmark": {
+         "description": "Save Bookmark",
+         "suggested_key": {
+            "default": "Alt+B",
+            "mac": "Alt+B"
+         }
+      },
+      "toggle-settings": {
+         "description": "Open Settings",
+         "suggested_key": {
+            "default": "Alt+Comma",
+            "mac": "Alt+Comma"
+         }
+      },
+      "toggle-sidebar": {
+         "description": "Toggle Sidebar",
+         "suggested_key": {
+            "default": "Alt+W",
+            "mac": "Alt+W"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "node_modules/@webhighlights/extension-components/dist/main.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "Highlight on any Webpage or PDF, create Tags and take Notes. Share your research and export it to HTML, Markdown, and PDF.",
+   "differential_fingerprint": "1.6d916079fe900feb879194226f430225c0c1a9162420e4becff1fdedc7840126",
+   "host_permissions": [ "http://*/", "https://*/", "*://*/*" ],
+   "icons": {
+      "128": "assets/marker-icon.png",
+      "16": "assets/marker-icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApY8W9MxuqZFG+wvQtILKY0RhkP8kI1a+BF/S/eITQz/SNjkkyxM4SOVbda5YGYD3EFkldSDTc9IgcIw4yG/JXDwhcXq/DcAt+TpV3KZgCMQI/kqGLj4IcDyx3DJ8YOi9rvd47i5+ewVHZYAmR0YXeSDAs4gnD0mGKqExR4P1eCBJxtdjbtEv2wtGHCXMP5Ch5y7Sztk28JANTHgsp5MKbS6ijv9Hvh/6vm0UP53A4Y5k0SMYolMCnHP/og0+Tn1J6z/loUqLJClcozOA8Qhz7a5NHZU75zWMiez1vHB0sZ0vUpAP+Rk5t38f3/KMEMJBou30jwSbwBjw6YRnYarGiQIDAQAB",
+   "manifest_version": 3,
+   "name": "Web Highlights - PDF & Web Highlighter",
+   "permissions": [ "tabs", "contextMenus", "storage", "scripting" ],
+   "short_name": "Web Highlights",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "7.5.0",
+   "web_accessible_resources": [ {
+      "matches": [ "https://web-highlights.com/*", "https://pre.web-highlights.com/*", "http://localhost:8081/*" ],
+      "resources": [ "pdf/*" ]
+   } ]
+}

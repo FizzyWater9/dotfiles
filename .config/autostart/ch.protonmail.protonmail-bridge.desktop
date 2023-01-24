@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.1
+Name=Proton Mail Bridge
+GenericName=Proton Mail Bridge for Linux
+Comment=The Bridge is an application that runs on your computer in the background and seamlessly encrypts and decrypts your mail as it enters and leaves your computer.
+Icon=ch.protonmail.protonmail-bridge
+Exec=/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=protonmail-bridge ch.protonmail.protonmail-bridge
+Terminal=false
+Categories=Office;Email
+StartupWMClass=Proton Mail Bridge
+X-Desktop-File-Install-Version=0.26
+X-Flatpak=ch.protonmail.protonmail-bridge

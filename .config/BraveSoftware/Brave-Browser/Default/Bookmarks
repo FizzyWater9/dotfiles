@@ -1,0 +1,48 @@
+{
+   "checksum": "8ef6c8908b9028727447f9e8b036d75d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13319008704085494",
+            "date_last_used": "0",
+            "guid": "2ef18a29-ca3d-48e2-b5be-27c58e4fe38a",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "New chat",
+            "type": "url",
+            "url": "https://chat.openai.com/chat"
+         } ],
+         "date_added": "13318556248451131",
+         "date_last_used": "0",
+         "date_modified": "13319008704085494",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13318556248451134",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13318556248451135",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CooBChAIiIECEgqI3I+hvGEAAAAAEgAaWDNkMWUxdndYdWNZQnhMMXhGWWdacHVvcFJXY1Zud0dZREo4ZGtuZjQvb052RVJwS2FEeUt5TG94bmEwK2UyRFlYVFJLZmtiMXMwLzlaYm85WlRDL0JnPT0gASoYOFE4dXJEV0pvUDJLNlBQUm5BdWphZz09EqcBCAUSogEKHEkrbVpuOFhNMXBFSVg4YjdzSWlFMHFCWEtZUT0SJGJhNzI1NjI0LTk5ZWUtNDJiOC05ZjExLTEyOTUwY2U1NzBjMxgAIAIoAjCE7seQ3jA43dzHkN4wQODcx5DeMEocbnpkL1ZURzh0cXovWFRwcUZqVlNVNEsvTUpjPVoeIhx2QkJnbU0xUy9uY0JRcHJlY3cvMVZtTzlOWFU9ZWkbIvMSgwEIAxJ/ChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRiZTRiNmY2Yi00ZWFkLTRkYWQtODUxOC1hYmI4ZTI3YTI3OGQYACAAKAAwATiRwNy43DBAkcDcuNwwShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABKDAQgCEn8KHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJGVhMzQ1NmYzLWIxMDgtNDAzZi1hMmRiLWFiZDJlZjhkODFmZhgAIAAoADABOJHA3LjcMECRwNy43DBKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEoMBCAESfwoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkOWE5YzdiOTgtYWJmNi00NTIxLTk4MjQtYTEzYmE0YmQ2Y2Y0GAAgACgAMAE4kcDcuNwwQJHA3LjcMEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAwATgA",
+   "version": 1
+}

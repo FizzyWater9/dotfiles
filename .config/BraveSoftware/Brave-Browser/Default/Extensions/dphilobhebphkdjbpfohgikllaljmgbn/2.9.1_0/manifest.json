@@ -1,0 +1,43 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_popup": "popup/popup.html",
+      "default_title": "simplelogin-extension"
+   },
+   "browser_specific_settings": {
+      "gecko": {
+         "id": "addon2@simplelogin"
+      }
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "description": "Open the extension action menu",
+         "suggested_key": {
+            "default": "Ctrl+Shift+S"
+         }
+      },
+      "generate-random-alias": {
+         "description": "Generate a random email alias",
+         "suggested_key": {
+            "default": "Ctrl+Shift+X"
+         }
+      }
+   },
+   "description": "Easily create a different email for each website to hide your real email. Protect your inbox against spams, phishing, data breaches",
+   "icons": {
+      "128": "icons/icon_128.png",
+      "16": "icons/icon_16.png",
+      "32": "icons/icon_32.png",
+      "48": "icons/icon_48.png",
+      "96": "icons/icon_96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApNhxTTS7RZLScXNumaJhyE3nFES666Svsakns/JRXKGlteAxO3cEU00mzgrO4T78cyVQAIifU5MVRZEGsRzcMpQreSFhlnpS3ItLprx+ngnIgPv/xX1aYv5sxLm8fXZVm/9614inUqkZBeT8jkshTyfDf0Lyp1uyHuLD206gWLlXjcQUrFvih6J2xSOZIw9ccCuKRaCw6CtKNfOfOjplokdtSe+hAZ1e4txtLIwmopSwjvw3z17XgXu/D1HbVcWpqhIq/3clkKQRkhIGa0aS3M5dPK/x2clZBfBG0nUIwBvbxVZ+JADbRcjoOAWaddf/kr0KW+Fx8sUnc8K8uIxfpwIDAQAB",
+   "manifest_version": 2,
+   "name": "SimpleLogin:Receive & Send emails anonymously",
+   "permissions": [ "activeTab", "storage", "contextMenus", "https://*.simplelogin.io/*", "http://*/*", "https://*/*" ],
+   "short_name": "SimpleLogin",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.9.1"
+}

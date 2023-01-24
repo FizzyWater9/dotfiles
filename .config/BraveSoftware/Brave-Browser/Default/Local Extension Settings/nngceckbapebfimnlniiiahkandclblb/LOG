@@ -1,0 +1,39 @@
+2023/01/20-14:58:01.201 3efaa Reusing MANIFEST /home/skylerfitzwater/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/MANIFEST-000001
+2023/01/20-14:58:01.201 3efaa Recovering log #11
+2023/01/20-14:58:01.209 3efaa Reusing old log /home/skylerfitzwater/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/000011.log 
+2023/01/20-16:13:06.841 5130e Level-0 table #16: started
+2023/01/20-16:13:06.866 5130e Level-0 table #16: 2618210 bytes OK
+2023/01/20-16:13:06.872 5130e Delete type=0 #11
+2023/01/20-16:16:54.944 530ae Compacting 1@1 + 1@2 files
+2023/01/20-16:16:54.956 530ae Generated table #17@1: 6 keys, 138785 bytes
+2023/01/20-16:16:54.956 530ae Compacted 1@1 + 1@2 files => 138785 bytes
+2023/01/20-16:16:54.963 530ae compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/01/20-16:16:54.963 530ae Delete type=2 #16
+2023/01/20-16:16:54.963 530ae Delete type=2 #13
+2023/01/21-20:58:08.309 37203f Level-0 table #19: started
+2023/01/21-20:58:08.331 37203f Level-0 table #19: 2622284 bytes OK
+2023/01/21-20:58:08.334 37203f Delete type=0 #15
+2023/01/21-21:13:23.975 291788 Compacting 1@1 + 1@2 files
+2023/01/21-21:13:23.983 291788 Generated table #20@1: 6 keys, 138475 bytes
+2023/01/21-21:13:23.983 291788 Compacted 1@1 + 1@2 files => 138475 bytes
+2023/01/21-21:13:23.988 291788 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/01/21-21:13:23.988 291788 Delete type=2 #17
+2023/01/21-21:13:23.988 291788 Delete type=2 #19
+2023/01/23-12:44:25.586 37a77 Level-0 table #22: started
+2023/01/23-12:44:25.602 37a77 Level-0 table #22: 2619705 bytes OK
+2023/01/23-12:44:25.605 37a77 Delete type=0 #18
+2023/01/23-12:48:31.319 6257a Compacting 1@1 + 1@2 files
+2023/01/23-12:48:31.330 6257a Generated table #23@1: 6 keys, 138475 bytes
+2023/01/23-12:48:31.330 6257a Compacted 1@1 + 1@2 files => 138475 bytes
+2023/01/23-12:48:31.332 6257a compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/01/23-12:48:31.332 6257a Delete type=2 #22
+2023/01/23-12:48:31.332 6257a Delete type=2 #20
+2023/01/23-21:34:04.554 b0962 Level-0 table #25: started
+2023/01/23-21:34:04.600 b0962 Level-0 table #25: 2625938 bytes OK
+2023/01/23-21:34:04.606 b0962 Delete type=0 #21
+2023/01/23-21:37:01.253 ab17a Compacting 1@1 + 1@2 files
+2023/01/23-21:37:01.266 ab17a Generated table #26@1: 6 keys, 139516 bytes
+2023/01/23-21:37:01.266 ab17a Compacted 1@1 + 1@2 files => 139516 bytes
+2023/01/23-21:37:01.274 ab17a compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/01/23-21:37:01.274 ab17a Delete type=2 #25
+2023/01/23-21:37:01.274 ab17a Delete type=2 #23

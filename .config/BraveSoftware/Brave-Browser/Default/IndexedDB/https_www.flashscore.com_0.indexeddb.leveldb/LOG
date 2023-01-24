@@ -1,0 +1,7 @@
+2023/01/20-16:43:04.991 616df Reusing MANIFEST /home/skylerfitzwater/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.flashscore.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/20-16:43:04.991 616df Recovering log #6
+2023/01/20-16:43:04.991 616df Reusing old log /home/skylerfitzwater/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.flashscore.com_0.indexeddb.leveldb/000006.log 
+2023/01/20-16:43:06.030 616df Level-0 table #11: started
+2023/01/20-16:43:06.033 616df Level-0 table #11: 584 bytes OK
+2023/01/20-16:43:06.037 616df Delete type=0 #6
+2023/01/20-16:43:06.037 616df Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,7 @@
+2023/01/20-16:14:07.285 5193f Reusing MANIFEST /home/skylerfitzwater/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_homeassistant.fizzynet.io_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/20-16:14:07.285 5193f Recovering log #3
+2023/01/20-16:14:07.318 5193f Reusing old log /home/skylerfitzwater/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_homeassistant.fizzynet.io_0.indexeddb.leveldb/000003.log 
+2023/01/20-16:14:40.411 5193e Level-0 table #5: started
+2023/01/20-16:14:40.437 5193e Level-0 table #5: 882662 bytes OK
+2023/01/20-16:14:40.443 5193e Delete type=0 #3
+2023/01/20-16:14:40.443 5193e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

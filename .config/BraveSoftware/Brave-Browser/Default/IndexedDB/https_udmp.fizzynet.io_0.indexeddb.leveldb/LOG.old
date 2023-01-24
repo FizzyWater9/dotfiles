@@ -1,0 +1,15 @@
+2023/01/22-20:56:33.085 3e14df Reusing MANIFEST /home/skylerfitzwater/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_udmp.fizzynet.io_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/22-20:56:33.085 3e14df Recovering log #4
+2023/01/22-20:56:33.085 3e14df Reusing old log /home/skylerfitzwater/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_udmp.fizzynet.io_0.indexeddb.leveldb/000004.log 
+2023/01/22-22:05:27.851 3e638d Level-0 table #8: started
+2023/01/22-22:05:27.855 3e638d Level-0 table #8: 209 bytes OK
+2023/01/22-22:05:27.861 3e638d Delete type=0 #4
+2023/01/22-22:05:27.861 3e638d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/01/22-22:05:27.861 3e638d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 196 : 1
+2023/01/22-22:05:27.861 3e638d Compacting 1@1 + 1@2 files
+2023/01/22-22:05:27.865 3e638d Generated table #9@1: 60 keys, 1159 bytes
+2023/01/22-22:05:27.865 3e638d Compacted 1@1 + 1@2 files => 1159 bytes
+2023/01/22-22:05:27.870 3e638d compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/01/22-22:05:27.870 3e638d Delete type=2 #8
+2023/01/22-22:05:27.870 3e638d Delete type=2 #5
+2023/01/22-22:05:27.871 3e638d Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 196 : 1 .. (end); will stop at (end)

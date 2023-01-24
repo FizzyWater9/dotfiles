@@ -1,0 +1,6 @@
+2023/01/19-11:07:18.229 69c3 Creating DB /home/skylerfitzwater/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb since it was missing.
+2023/01/19-11:07:18.235 69c3 Reusing MANIFEST /home/skylerfitzwater/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/19-11:07:35.950 6670 Level-0 table #5: started
+2023/01/19-11:07:35.952 6670 Level-0 table #5: 3759 bytes OK
+2023/01/19-11:07:35.955 6670 Delete type=0 #3
+2023/01/19-11:07:35.955 6670 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,124 @@
+{
+  "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
+  "blocks": [
+    {
+      "alignment": "left",
+      "segments": [
+        {
+          "foreground": "#ffffff",
+          "style": "plain",
+          "template": "<#C591E8>\u276f</><#69FF94>\u276f</>",
+          "type": "text"
+        },
+        {
+          "foreground": "#56B6C2",
+          "properties": {
+            "style": "folder"
+          },
+          "style": "plain",
+          "template": " {{ .Path }} ",
+          "type": "path"
+        },
+        {
+          "foreground": "#D0666F",
+          "properties": {
+            "branch_icon": "",
+            "fetch_status": false
+          },
+          "style": "plain",
+          "template": "<#5FAAE8>git:(</>{{ .HEAD }}<#5FAAE8>)</>",
+          "type": "git"
+        },
+        {
+          "foreground": "#DCB977",
+          "style": "plain",
+          "template": " \uf119",
+          "type": "exit"
+        },
+        {
+          "foreground": "#66F68F",
+          "properties": {
+            "time_format": "3:04 PM"
+          },
+          "style": "plain",
+          "template": " {{ .CurrentDate | date .Format }} ",
+          "type": "time"
+        },
+        {
+          "type": "dart",
+          "style": "plain",
+          "powerline_symbol": "\uE0B0",
+          "foreground": "#8a078f",
+          "template": " \uE798 {{ .Full }} "
+        },
+        {
+          "type": "dotnet",
+          "style": "plain",
+          "powerline_symbol": "\uE0B0",
+          "foreground": "#8a078f",
+          "template": " \uE77F {{ .Full }} "
+        },
+        {
+          "type": "node",
+          "style": "plain",
+          "powerline_symbol": "\uE0B0",
+          "foreground": "#8a078f",
+          "template": " \uE718 {{ .Full }} "
+        },
+        {
+          "type": "python",
+          "style": "plain",
+          "powerline_symbol": "\uE0B0",
+          "foreground": "#8a078f",
+          "template": " \uE235 {{ .Full }} "
+        },
+        {
+          "type": "rust",
+          "style": "plain",
+          "powerline_symbol": "\uE0B0",
+          "foreground": "#8a078f",
+          "template": " \uE7a8 {{ .Full }} "
+        },
+        {
+          "type": "az",
+          "style": "plain",
+          "powerline_symbol": "\uE0B0",
+          "foreground": "#8a078f",
+          "template": " \uFD03 {{ .EnvironmentName }}"
+        },
+        {
+          "type": "executiontime",
+          "style": "plain",
+          "powerline_symbol": "\uE0B0",
+          "foreground": "#c40101",
+          "template": " <#fefefe>\ufbab</> {{ .FormattedMs }} ",
+          "properties": {
+            "always_enabled": true,
+            "threshold": 500,
+            "style": "austin"
+          }
+        }
+      ],
+      "type": "prompt"
+    },
+    {
+      "alignment": "right",
+      "segments": [
+        {
+          "type": "spotify",
+          "style": "plain",
+          "powerline_symbol": "\uE0B0",
+          "foreground": "#1BD760",
+          "template": "{{ .Icon }}{{ if ne .Status \"stopped\" }}{{ .Artist }} - {{ .Track }}{{ end }}",
+          "properties": {
+            "playing_icon": "\uE602 ",
+            "paused_icon": "\uF8E3 ",
+            "stopped_icon": "\uF04D "
+          }
+        }
+      ],
+      "type": "rprompt"
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,6 @@
+2023/01/20-09:26:06.242 1d587 Creating DB /home/skylerfitzwater/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.milehighhockey.com_0.indexeddb.leveldb since it was missing.
+2023/01/20-09:26:06.249 1d587 Reusing MANIFEST /home/skylerfitzwater/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.milehighhockey.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/20-09:26:11.074 1d589 Level-0 table #5: started
+2023/01/20-09:26:11.077 1d589 Level-0 table #5: 848 bytes OK
+2023/01/20-09:26:11.080 1d589 Delete type=0 #3
+2023/01/20-09:26:11.080 1d589 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

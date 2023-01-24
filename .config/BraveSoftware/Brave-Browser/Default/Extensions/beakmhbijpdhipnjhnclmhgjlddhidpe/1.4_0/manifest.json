@@ -1,0 +1,42 @@
+{
+   "action": {
+      "default_icon": {
+         "19": "icons/button_19x19.png",
+         "32": "icons/button_32x32.png",
+         "38": "icons/button_38x38.png"
+      },
+      "default_popup": "popup/index.html",
+      "default_title": "Add bookmark (Alt+Shift+L)"
+   },
+   "background": {
+      "service_worker": "build/background.js"
+   },
+   "commands": {
+      "_execute_action": {
+         "description": "Open a popup to bookmark current page.",
+         "suggested_key": {
+            "default": "Alt+Shift+L"
+         }
+      }
+   },
+   "description": "Companion extension for the linkding bookmark service",
+   "homepage_url": "https://github.com/sissbruecker/linkding-extension/",
+   "host_permissions": [ "http://*/*", "https://*/*" ],
+   "icons": {
+      "128": "icons/logo_128x128.png",
+      "48": "icons/logo_48x48.png",
+      "96": "icons/logo_96x96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhL1BNOk4fLVdf284ISI33UF1B6XHWKH5vZhLwX8NdvxbI36q2me6rilrNgDRJ3OJY4ffEckNdf5ljSWtt4+hEvLaUpN8td3CFO/2YMt1+WByZU6AhxKjLMrZTHEvt+avcZR3mzjPryWbGcELjnjGuCRoJtvR89dN0EEXtMHi0Xsy8Y3YLXW5/jNBEWURG3ZIjl1pDZe2QP1m7qPWjpftZWNYdP4ryFFH7ZBC3PDbqC4iUSkVc1bZPXX2rT++ea4Nc9et1Hs70hTM9cWubWD+NWDaUmf/NLFDNT7ALMqGBfzoBdU/I4q/hPQtTf2tniZHH/qCIte/KStR2tEiF6Y+hQIDAQAB",
+   "manifest_version": 3,
+   "name": "linkding extension",
+   "omnibox": {
+      "keyword": "ld"
+   },
+   "options_ui": {
+      "page": "options/index.html"
+   },
+   "permissions": [ "tabs", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.4"
+}

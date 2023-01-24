@@ -1,0 +1,6 @@
+2023/01/19-15:39:12.500 a9a7 Creating DB /home/skylerfitzwater/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_netrunnerdb.com_0.indexeddb.leveldb since it was missing.
+2023/01/19-15:39:12.506 a9a7 Reusing MANIFEST /home/skylerfitzwater/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_netrunnerdb.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/19-15:39:24.153 a9a7 Level-0 table #5: started
+2023/01/19-15:39:24.156 a9a7 Level-0 table #5: 52193 bytes OK
+2023/01/19-15:39:24.158 a9a7 Delete type=0 #3
+2023/01/19-15:39:24.158 a9a7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
